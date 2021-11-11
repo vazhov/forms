@@ -1,0 +1,9 @@
+.social {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    &__item {
+        margin-right: 10px;
+        list-style-type: none;
+    }
+}
